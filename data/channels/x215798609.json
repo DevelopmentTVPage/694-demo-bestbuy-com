@@ -1,0 +1,46 @@
+{
+    "title": "Dynamic - PDP SKU Match",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1562797102",
+    "date_modified": "1562797239",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "215798609",
+    "loginId": "1759326",
+    "entityType": "5",
+    "titleTextEncoded": "dynamic-pdp-sku-match",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "order": "none",
+                    "lastNDays": 10,
+                    "limit": 10,
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "photos": {},
+                    "products": {}
+                },
+                "options": {},
+                "extras": {}
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": false,
+            "attributes": {}
+        }
+    },
+    "transcripts": null
+}
