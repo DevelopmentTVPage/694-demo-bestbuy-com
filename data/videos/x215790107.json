@@ -1,0 +1,106 @@
+{
+    "title": "Starbucks-Three_Ways_to_Make_Cold_Brew_Coffee",
+    "description": "",
+    "referenceId": "f7ba685c40ae0c6b54db993442823866",
+    "date_created": "1562786474",
+    "date_modified": "1562790316",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "user_id": "216234",
+    "id": "215790107",
+    "loginId": "1759326",
+    "entityType": "1",
+    "titleTextEncoded": "starbucks-three-ways-to-make-cold-brew-coffee",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "187",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "187",
+            "width": 1920,
+            "height": 1080
+        },
+        "sources": [
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "187",
+        "prettyDuration": "00:03:07",
+        "selectableThumbnails": [
+            "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/thumb-f7ba685c40ae0c6b54db993442823866-00006.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/thumb-f7ba685c40ae0c6b54db993442823866-00005.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/thumb-f7ba685c40ae0c6b54db993442823866-00004.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/thumb-f7ba685c40ae0c6b54db993442823866-00003.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/thumb-f7ba685c40ae0c6b54db993442823866-00002.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/thumb-f7ba685c40ae0c6b54db993442823866-00001.jpg"
+        ],
+        "automaticThumbnailsPattern": "1759326\/215790107\/95bcd\/thumb-f7ba685c40ae0c6b54db993442823866-{count}",
+        "thumbnails": {
+            "256": "\/\/v-stage.tvpage.com\/1759326\/215790107\/thumbnail\/image-thumbnail-256-48d9d34f907c0602004f8efd23ab6cf4.jpg",
+            "480": "\/\/v-stage.tvpage.com\/1759326\/215790107\/thumbnail\/image-thumbnail-480-4395e6e481aeb966c8ae4342fe344449.jpg",
+            "640": "\/\/v-stage.tvpage.com\/1759326\/215790107\/thumbnail\/image-thumbnail-640-d0929ecdd8df027da21758a733ab3620.jpg",
+            "1280": "\/\/v-stage.tvpage.com\/1759326\/215790107\/thumbnail\/image-thumbnail-1280-7f952f4ac4588a60fb6df80cfeb4fcbb.jpg",
+            "1920": "\/\/v-stage.tvpage.com\/1759326\/215790107\/thumbnail\/image-thumbnail-1920-54b1b3cac2f2e852501190ebdbcbc272.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/thumb-f7ba685c40ae0c6b54db993442823866-00005.jpg",
+        "thumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215790107\/thumbnail\/image-thumbnail-640-d0929ecdd8df027da21758a733ab3620.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/media.mpd",
+        "hlsUrl": "\/\/v-stage.tvpage.com\/1759326\/215790107\/95bcd\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "CVV_VI": "",
+    "metrics_statistics": ""
+}

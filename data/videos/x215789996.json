@@ -1,0 +1,106 @@
+{
+    "title": "Breville_Grind_Control_Grinder",
+    "description": "",
+    "referenceId": "33cd9353811768fdd86c4bcdea94548c",
+    "date_created": "1562786443",
+    "date_modified": "1562790316",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "user_id": "216234",
+    "id": "215789996",
+    "loginId": "1759326",
+    "entityType": "1",
+    "titleTextEncoded": "breville-grind-control-grinder",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "90",
+            "width": 1920,
+            "height": 1080
+        },
+        "sources": [
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "selectableThumbnails": [
+            "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/thumb-33cd9353811768fdd86c4bcdea94548c-00006.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/thumb-33cd9353811768fdd86c4bcdea94548c-00005.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/thumb-33cd9353811768fdd86c4bcdea94548c-00004.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/thumb-33cd9353811768fdd86c4bcdea94548c-00003.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/thumb-33cd9353811768fdd86c4bcdea94548c-00002.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/thumb-33cd9353811768fdd86c4bcdea94548c-00001.jpg"
+        ],
+        "automaticThumbnailsPattern": "1759326\/215789996\/e7e94\/thumb-33cd9353811768fdd86c4bcdea94548c-{count}",
+        "thumbnails": {
+            "256": "\/\/v-stage.tvpage.com\/1759326\/215789996\/thumbnail\/image-thumbnail-256-52b2c3a8632f56d33fcd9848886544c3.jpg",
+            "480": "\/\/v-stage.tvpage.com\/1759326\/215789996\/thumbnail\/image-thumbnail-480-962fc468bf05be38e6010e4981cd266d.jpg",
+            "640": "\/\/v-stage.tvpage.com\/1759326\/215789996\/thumbnail\/image-thumbnail-640-c61b7bbfc4e9e1224d2e9aa59ebb9615.jpg",
+            "1280": "\/\/v-stage.tvpage.com\/1759326\/215789996\/thumbnail\/image-thumbnail-1280-f416eace87508b233666f8cd0f8aa9ee.jpg",
+            "1920": "\/\/v-stage.tvpage.com\/1759326\/215789996\/thumbnail\/image-thumbnail-1920-21f4bd2a0908142bb08e2e2df7818b71.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/thumb-33cd9353811768fdd86c4bcdea94548c-00005.jpg",
+        "thumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215789996\/thumbnail\/image-thumbnail-640-c61b7bbfc4e9e1224d2e9aa59ebb9615.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/media.mpd",
+        "hlsUrl": "\/\/v-stage.tvpage.com\/1759326\/215789996\/e7e94\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "CVV_VI": "",
+    "metrics_statistics": ""
+}
