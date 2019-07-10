@@ -1,0 +1,105 @@
+{
+    "title": "Cuisinart_Single_Serve_Espresso_and_Coffee_Machines",
+    "description": "",
+    "referenceId": "8197c6a1565f9f1f3508e6d89fab426c",
+    "date_created": "1562786461",
+    "date_modified": "1562790316",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "user_id": "216234",
+    "id": "215790069",
+    "loginId": "1759326",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-single-serve-espresso-and-coffee-machines",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "120",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "120",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "selectableThumbnails": [
+            "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/thumb-8197c6a1565f9f1f3508e6d89fab426c-00006.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/thumb-8197c6a1565f9f1f3508e6d89fab426c-00005.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/thumb-8197c6a1565f9f1f3508e6d89fab426c-00004.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/thumb-8197c6a1565f9f1f3508e6d89fab426c-00003.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/thumb-8197c6a1565f9f1f3508e6d89fab426c-00002.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/thumb-8197c6a1565f9f1f3508e6d89fab426c-00001.jpg"
+        ],
+        "automaticThumbnailsPattern": "1759326\/215790069\/95df3\/thumb-8197c6a1565f9f1f3508e6d89fab426c-{count}",
+        "thumbnails": {
+            "256": "\/\/v-stage.tvpage.com\/1759326\/215790069\/thumbnail\/image-thumbnail-256-6ac4e04623a1f807a27c10060e99a8fc.jpg",
+            "480": "\/\/v-stage.tvpage.com\/1759326\/215790069\/thumbnail\/image-thumbnail-480-9261105b36243ef80b54d828a581f642.jpg",
+            "640": "\/\/v-stage.tvpage.com\/1759326\/215790069\/thumbnail\/image-thumbnail-640-6f92654a2a4851c00a451896fce2c0c3.jpg",
+            "1280": "\/\/v-stage.tvpage.com\/1759326\/215790069\/thumbnail\/image-thumbnail-1280-01c31617c54dbc58fc151bf972dae2e3.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/thumb-8197c6a1565f9f1f3508e6d89fab426c-00005.jpg",
+        "thumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215790069\/thumbnail\/image-thumbnail-640-6f92654a2a4851c00a451896fce2c0c3.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/media.mpd",
+        "hlsUrl": "\/\/v-stage.tvpage.com\/1759326\/215790069\/95df3\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "CVV_VI": "",
+    "metrics_statistics": ""
+}

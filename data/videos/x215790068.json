@@ -1,0 +1,103 @@
+{
+    "title": "Cuisinart_Programmable_Espresso_Maker",
+    "description": "",
+    "referenceId": "582cd07d25674485fa95d458a3c2d576",
+    "date_created": "1562786458",
+    "date_modified": "1562790316",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "user_id": "216234",
+    "id": "215790068",
+    "loginId": "1759326",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-programmable-espresso-maker",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": "",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "607",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "607",
+            "width": 632,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 632,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 632,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 632,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 474,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 316,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "607",
+        "prettyDuration": "00:10:07",
+        "selectableThumbnails": [
+            "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/thumb-582cd07d25674485fa95d458a3c2d576-00006.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/thumb-582cd07d25674485fa95d458a3c2d576-00005.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/thumb-582cd07d25674485fa95d458a3c2d576-00004.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/thumb-582cd07d25674485fa95d458a3c2d576-00003.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/thumb-582cd07d25674485fa95d458a3c2d576-00002.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/thumb-582cd07d25674485fa95d458a3c2d576-00001.jpg"
+        ],
+        "automaticThumbnailsPattern": "1759326\/215790068\/61ce2\/thumb-582cd07d25674485fa95d458a3c2d576-{count}",
+        "thumbnails": {
+            "256": "\/\/v-stage.tvpage.com\/1759326\/215790068\/thumbnail\/image-thumbnail-256-881230e268c61efc29fb9350ae385972.jpg",
+            "480": "\/\/v-stage.tvpage.com\/1759326\/215790068\/thumbnail\/image-thumbnail-480-73e65a5e2300c1c11e3b28684442cbcb.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/thumb-582cd07d25674485fa95d458a3c2d576-00005.jpg",
+        "thumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215790068\/thumbnail\/image-thumbnail-480-73e65a5e2300c1c11e3b28684442cbcb.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/media.mpd",
+        "hlsUrl": "\/\/v-stage.tvpage.com\/1759326\/215790068\/61ce2\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "CVV_VI": "",
+    "metrics_statistics": ""
+}

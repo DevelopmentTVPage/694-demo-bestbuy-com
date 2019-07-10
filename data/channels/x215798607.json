@@ -1,0 +1,20 @@
+{
+    "title": "Dynamic - Latest Videos",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1562797077",
+    "date_modified": "1562797077",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "215798607",
+    "loginId": "1759326",
+    "entityType": "5",
+    "titleTextEncoded": "dynamic-latest-videos",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null,
+    "dynamicChannelParams": []
+}

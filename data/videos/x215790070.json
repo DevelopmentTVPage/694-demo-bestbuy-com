@@ -1,0 +1,104 @@
+{
+    "title": "Discover_the_Nespresso_Lattissima",
+    "description": "",
+    "referenceId": "f5ed2806095b3f6ba3cc8ce795c0ccb2",
+    "date_created": "1562786463",
+    "date_modified": "1562790316",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "user_id": "216234",
+    "id": "215790070",
+    "loginId": "1759326",
+    "entityType": "1",
+    "titleTextEncoded": "discover-the-nespresso-lattissima",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "132",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "132",
+            "width": 854,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "132",
+        "prettyDuration": "00:02:12",
+        "selectableThumbnails": [
+            "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/thumb-f5ed2806095b3f6ba3cc8ce795c0ccb2-00006.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/thumb-f5ed2806095b3f6ba3cc8ce795c0ccb2-00005.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/thumb-f5ed2806095b3f6ba3cc8ce795c0ccb2-00004.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/thumb-f5ed2806095b3f6ba3cc8ce795c0ccb2-00003.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/thumb-f5ed2806095b3f6ba3cc8ce795c0ccb2-00002.jpg",
+            "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/thumb-f5ed2806095b3f6ba3cc8ce795c0ccb2-00001.jpg"
+        ],
+        "automaticThumbnailsPattern": "1759326\/215790070\/c6c95\/thumb-f5ed2806095b3f6ba3cc8ce795c0ccb2-{count}",
+        "thumbnails": {
+            "256": "\/\/v-stage.tvpage.com\/1759326\/215790070\/thumbnail\/image-thumbnail-256-04cb1fdcdbdf12bf1523f2c391972a89.jpg",
+            "480": "\/\/v-stage.tvpage.com\/1759326\/215790070\/thumbnail\/image-thumbnail-480-b777c37f9d556f0b2c9db8851faca5fe.jpg",
+            "640": "\/\/v-stage.tvpage.com\/1759326\/215790070\/thumbnail\/image-thumbnail-640-9f0961ab838e2bba68df5519acea9af9.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/thumb-f5ed2806095b3f6ba3cc8ce795c0ccb2-00005.jpg",
+        "thumbnailUrl": "\/\/v-stage.tvpage.com\/1759326\/215790070\/thumbnail\/image-thumbnail-640-9f0961ab838e2bba68df5519acea9af9.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/media.mpd",
+        "hlsUrl": "\/\/v-stage.tvpage.com\/1759326\/215790070\/c6c95\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "CVV_VI": "",
+    "metrics_statistics": ""
+}

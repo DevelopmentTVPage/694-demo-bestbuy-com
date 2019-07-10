@@ -1,0 +1,19 @@
+{
+    "title": "Standard Channel 4",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1562797062",
+    "date_modified": "1562797062",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "215798606",
+    "loginId": "1759326",
+    "entityType": "3",
+    "titleTextEncoded": "standard-channel-4",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
