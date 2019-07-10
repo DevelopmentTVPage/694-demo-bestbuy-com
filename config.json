@@ -1,0 +1,16 @@
+{
+    "title": "Demo Project",
+    "baseURL": "https:\/\/demo.bestbuy.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759326",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "bestbuy.com"
+    }
+}
